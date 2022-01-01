@@ -7,7 +7,7 @@
 
 ### Installing Nodejs and NPM
 	sudo apt install nodejs npm
-	sudo ln -s /usr/bin/nodejs   /usr/bin/node
+	sudo ln -sf /usr/bin/nodejs   /usr/bin/node
 
 ### Installing Solidity Compiler
 	sudo npm install -g solc
